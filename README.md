@@ -15,7 +15,7 @@ Young nerd here. I like programming, musical composition/production, and binge-w
 
 My current favorite language is: [Rust](https://www.rust-lang.org).
 
-The language I'd like to learn next is: [Racket](https://racket-lang.org).
+The language I'd like to learn next is: [Haskell](https://www.haskell.org/).
 
 ### stats
 
